@@ -34,15 +34,15 @@ Here are some of the observations i got during training & inference.
 
 ![](inference_pics/ult2.jpg)
 
-![](inference_pics/inf (7).jpg)
+![](inference_pics/inf7.jpg)
 
-![](inference_pics/inf (1).jpg)
+![](inference_pics/inf1.jpg)
 
 ![](inference_pics/ahgjhgg.jpg)
 
 ![](inference_pics/ahggguyff.jpg)
 
-![](inference_pics/inf (2).jpg)
+![](inference_pics/inf2.jpg)
 
 ![](inference_pics/gfgfj.jpg)
 
