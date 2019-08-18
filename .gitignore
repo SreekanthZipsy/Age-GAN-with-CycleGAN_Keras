@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+__pycache__/
+AtoBmods/
+BtoAmods/
+AtoBplots/
+BtoAplots/
+Old/
+UTKFace/
+Young/
+UTKFace.zip
+Old2Young_32.npz
+Old2Young_64.npz
+Old2Young_128.npz
