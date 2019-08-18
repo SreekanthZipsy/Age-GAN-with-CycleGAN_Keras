@@ -45,3 +45,5 @@ Here are some of the observations i got during training & inference.
 ![](inference_pics/inf (2).jpg)
 
 ![](inference_pics/gfgfj.jpg)
+
+You can check the training process for 64*64 size images in "model_64.ipynb" file and for inference  you can check the "inference.ipynb" file. 
